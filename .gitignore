@@ -1,0 +1,53 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Log / temp files
+*.log
+*.tmp
+*.temp
+
+# OS specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Android NDK / CMake / Native build
+.cxx/
+.externalNativeBuild/
+
+# Captures and profiling
+captures/
+*.hprof
+
+# Google services (keep private unless project is open-source)
+app/google-services.json
+
+# Keystore files (don’t commit your signing keys!)
+*.jks
+*.keystore
+
+# VS Code
+.vscode/
+.history/
+
+# Kotlin specific
+*.kotlin_metadata
+
+emulator/
+gradle-8.10.2/
+system-images/
+platforms/
+cmdline-tools/
+build-tools/
