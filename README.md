@@ -7,7 +7,7 @@ The app enables users to add, edit, and delete tasks, mark them as completed, an
 **Purpose:**
 To further my learning in mobile app development, Kotlin programming, and cloud database integration by building a practical and useful application.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/4VznMRzVugM)
 
 # Development Environment
 
@@ -27,7 +27,6 @@ To further my learning in mobile app development, Kotlin programming, and cloud 
 
 * [Android Developers](https://developer.android.com/)
 * [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
-* [Firebase Documentation](https://firebase.google.com/docs)
 * [Gradle User Manual](https://docs.gradle.org/current/userguide/userguide.html)
-* [VS Code Marketplace](https://marketplace.visualstudio.com/)
+
 
